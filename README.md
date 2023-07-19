@@ -1,2 +1,2 @@
-# website
-Repository for www.rmnetwork.us
+# Website
+This is the website for RM Network.
